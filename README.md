@@ -39,3 +39,5 @@ The project includes the following predefined exchange rates:
 - USD to JPY: 1 USD = 110.63 JPY
 - USD to INR: 1 USD = 80.0 INR
 
+<img width="442" alt="image" src="https://github.com/deep1296/Currency-Converter-Java-project/assets/96063026/75b19334-ea0f-41b8-9b4f-00288322cbe4">
+
